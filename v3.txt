@@ -1,0 +1,24 @@
+1Q.which of the following is composite
+  1.5   2.2  3.3  4.4
+2Q.which of the following is even prime
+  1.1   2.2  3.3  4.4
+3Q.Complete the sequence  13,16,...,22
+  1.17   2.18  3.19   4.20
+4Q.What is the largest two digit prime number?
+  1.96   2.97  3.98   4.99
+5Q.  1 Dime = ......Dollar
+  1. 0.20  2.10   3.0.10   4.0.01
+6Q. How many factors are there in 71?
+ 1. 1   2. 2    3. 3     4. None of these.
+7Q. Which is the largest number in 15/17, 15/18, 15/19, 15/21?
+ 1. 15/17  2. 15/18   3. 15/19   4. 15/21
+8Q. What is the average value of 25, 20, 23 and 22?
+ 1. 20  2. 21.5  3. 22.5  4. 24
+9Q. What is the sum of one digit prime numbers?
+ 1. 11   2. 13   3. 15   4. 17
+10Q. How many hours in 90 minutes?
+ 1. 1.5 hours   2. 1.30 hours    3. 1 hour   4. None of these
+
+
+
+

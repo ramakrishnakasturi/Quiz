@@ -1,0 +1,22 @@
+1.what are the units of current
+  1.watt  2.volt  3.ampere  4.none
+2.which of the below given equations are true
+  1.p=ri  2.v=qc  3.v=ir  4.all of the above
+3.If the earth is 1/4th of its present distance from the sun, the duration of the year would be
+  1. 1/4 of the present year    2.1/6 of  the present year    3. 1/8 of the present year    4.1/16 of the present year
+4.There is no atmosphere on the moon because
+  1. it is closer ot the earth   2.it revolves round the earth   3. it gets light from the sun    4. the escape velocity of gas molecules is less than their root mean square velocity here
+5.If the radius of the earth were to shrink by 1% its mass remaining the same, the acceleration due to gravity on the earth’s surface would
+  1.decrease by 2%   2.remain unchanged   3. increase by 2%     4. will increase by 9.8%
+6.If the change in the value of g at the height h above the surface of the earth is the same as at a depth x below it, then (both x and h being much smaller than the radius of the earth)
+  1. x = h   2. x = 2 h    3. x =h/2     4.x = h2
+7.One end of a towel dips into a bucket full of water and other end hangs over the bucket. It is found that after some time the towel becomes fully wet. It happens 
+  1.Because viscosity of eater is high   2.Because of the capillary action of cotton threads    3.Because of gravitational force          4.Because of evaporation of water.
+8.For tap water and clean glass, the angle of contact is
+  1.0°    2.90°   3.140°     4.8°
+9.A number of small drops of mercury coalesce adiabatically to form a single drop. The temperature of drop.
+  1.Increases    2.Is infinite   3.Remains unchanged    4.May decrease or increase depending upon size
+10.When there are no external forces, the shape of a liquid  drop is determined by
+  1.Surface tension of the liquid    2.Density of liquid    3.Viscosity of liquid    4.Temperature of air only
+
+

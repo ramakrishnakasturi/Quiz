@@ -1,0 +1,22 @@
+1.A thief stole a box with valuable article of weight ‘W’ and jumped down a wall of height h. Before he reach the ground he experienced a load of
+ 1.zero   2.W / 2   3.W   4.2 W
+2.The period of the satellite in a circullar orbit of Radius R is T.Then period of the satellite in a circullar orbit of Radius 4R
+ 1.T/4  2.8T   3.2T   4.T/8 
+3.When the planet comes nearer the sun moves
+ 1.fast  2.slow  3.constant at every point  4. none of the above
+4.Kepler’s second law regarding constancy of arial velocity of a planet is a consequence of the law of conservation of
+ 1. energy  2. angular momentum  3.linear momentum  4. none of these
+5.The period of geostationary artificial satellite is
+ 1. 24 hours  2. 6 hours  3. 12 hours  4. 48 hour
+6.A geostationary satellite is orbiting the earth at a height of 6R above the surface of the earth, R being the radius of the earth. The time period of another satellite at a height of 2.5 R from the surface of earth is
+ 1.8.484  hr  2. 6 hr   3.7.2 hr  4.10 hr
+7.The distance of Neptune and Saturn from the sun are nearly 1013 m and 1012 m respectively. Assuming that they move in circular orbits, their periodic times would be in the ratio of
+ 1. 10   2. 100   3.10   4.1000
+8.The period of geostationary artificial satellite of earth is
+ 1. 6 hours  2. 12 hours  3. 24 hours   4. 365 days
+9.A missile is launched with a velocity less than the escape velocity. The sum of its kinetic and potential energy is
+ 1. Positive   2.Negative   3. Zero   4 may be positive or negative
+10.The escape velocity of projection from the earth is approximately (R = 6400 km)
+ 1. 7 km/sec   2.112 km/sec    3.12.2 km/sec   4.1.1 km/sec
+
+

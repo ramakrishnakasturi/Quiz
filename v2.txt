@@ -1,0 +1,22 @@
+1Q.which of the following is even
+ 1.1   2.3   3.6   4.9
+2Q.which of the following is odd
+ 1.2  2.3   3.5   4.6
+3Q.Name of the triangle which has two equal sides  ?
+1.Isosceles triangle  2.Equilateral triangle  3.Scalene triangle 4.none of the above
+4Q.How many lines can be drawn through 2 points  ?
+1.1  2.2  3.infinite 4.none of the above
+5Q.When we multiply an exact number by zero what will be the exact answer  ?
+1.the exact number  2.caannot be multiplied  3.zero  4.none
+6Q.what is 999 times 1000.0  
+1.199  2.999  3.9990  4.99900
+7Q.what is the unit of volume
+1.square units  2.cubic units  3.only units  4.none
+8Q.1010 gram=___KG
+1.10.10  2.101.0  3.1.001  4.1.01
+9Q.How many times 1000 is bigger than 1 ?
+1.1 time  2.2time  3.10time  3.1000time
+10Q.Average of three persons age is 9 years.find the sum of their age  ?
+1.18   2.21  3.24  4.27
+    
+ 
